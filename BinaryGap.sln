@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryGap", "BinaryGap\BinaryGap.csproj", "{BF6D1702-FBE9-42B9-91CB-86883D48C676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6D1702-FBE9-42B9-91CB-86883D48C676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6D1702-FBE9-42B9-91CB-86883D48C676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6D1702-FBE9-42B9-91CB-86883D48C676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6D1702-FBE9-42B9-91CB-86883D48C676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB98C8E0-C4BA-4C49-9229-616FB0D54569}
+	EndGlobalSection
+EndGlobal
